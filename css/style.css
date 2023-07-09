@@ -108,7 +108,6 @@ main article {
    background-image: url("../images/pasta.png");
    background-size: cover;
    background-position: center;
-   /* color: #495E57; */
    text-shadow: 2px 2px 8px #818080;
    text-align: right;
 }
