@@ -105,7 +105,7 @@ main article {
 }
 
 #hero {
-   background-image: url('/images/pasta.png');
+   background-image: url("../images/pasta.png");
    background-size: cover;
    background-position: center;
    /* color: #495E57; */
